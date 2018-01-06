@@ -12,4 +12,5 @@ Second one =>
 * npm install
 * npm install comment-lib
 * Open you project in app-component.ts 
-* Put this line import { CommentModule } from 'comment-lib'; and this in Imports: [ CommentModule ], and on your-component.html put this tag <form-comment></form-comment>
+* Put this line import { CommentModule } from 'comment-lib'; and this in Imports: [ CommentModule ]
+* And on your-component.html put this tag <form-comment></form-comment>
